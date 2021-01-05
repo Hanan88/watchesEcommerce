@@ -9,8 +9,8 @@
                 <ul class="category-list">
                     <li class="category-item"><a href="#">Popular</a></li>
                     <li class="category-item"><a href="#">Most Sale</a></li>
-                    <li class="category-item"><a href="#">Male</a></li>
-                    <li class="category-item"><a href="#">Female</a></li>
+                    <li class="category-item"><a href="#">Brand</a></li>
+                    <li class="category-item"><a href="#">Gategory</a></li>
                     <li class="category-item"><a href="#">New Collection</a></li>
                 </ul>
             </div>
